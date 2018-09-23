@@ -25,3 +25,5 @@ CREATE TABLE characters(
   species TEXT,
   author_id,
   series_id);
+
+  CREATE TABLE character_books()
