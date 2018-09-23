@@ -26,4 +26,6 @@ CREATE TABLE characters(
   author_id,
   series_id);
 
-  CREATE TABLE character_books()
+  CREATE TABLE character_books(
+    
+  )
