@@ -24,5 +24,4 @@ CREATE TABLE characters(
   motto TEXT,
   species TEXT,
   author_id,
-
-)
+  series_id);
