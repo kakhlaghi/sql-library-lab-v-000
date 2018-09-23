@@ -5,5 +5,6 @@ CREATE TABLE series (
   subgenre_id TEXT);
 
 CREATE TABLE subgenres (
-  id INTEGER PRIMARY KEY
+  id INTEGER PRIMARY KEY,
+
 )
