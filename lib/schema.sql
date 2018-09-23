@@ -16,4 +16,4 @@ CREATE TABLE authors (
 
 CREATE TABLE books (
   
-)
+);
